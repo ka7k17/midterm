@@ -1,0 +1,15 @@
+a:link {
+    text-decoration: none;
+}
+
+a:hover {
+    color: grey;
+}
+
+h1, h3 {
+    font-family: 'Noto Serif', serif;
+}
+
+h5 {
+    font-family: 'Lato', sans-serif;
+}
